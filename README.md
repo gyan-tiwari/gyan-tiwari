@@ -4,7 +4,8 @@
 
 <hr/>
 
-<h1 align="center">Hello World 🌎, I'm <a href="https://rithik-tiwari.github.io/dev_portfolio">Gyanendar Tiwari</a></h1>
+<h1 align="center">Hello World 🌎, I'm <a href="https://rithik-tiwari.github.io/dev_portfolio">Gyanendar Tiwari</a> &nbsp; <img alt="emoji" width="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjByMXhnYnR2eTN1NTQzdW9tNHk3ZXk3cDllaHM2eDA4M296bXprZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtOkaikiwaR87ZvAFH/giphy.gif" /></h1>
+
 <h3 align="center">A passionate Web Developer | Web Designer from Chennai, India.</h3>
 
 
@@ -109,6 +110,5 @@
   <a href="https://www.instagram.com/_rithik_tiwari_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
 
-[PORTFOLIO]: https://rithik-tiwari.github.io/dev_portfolio
 
 
