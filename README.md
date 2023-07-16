@@ -25,8 +25,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRpN3pzMWZ6YXhnbm0xN212bGUzc2IwenI2MDEybXk1b2x4Yzh6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🌱 I’m currently learning **App development**
-
 - 👨‍💻 All of my projects are available at [My-Portfolio](https://rithik-tiwari.github.io/dev_portfolio)
 
 - 📝 I regularly write articles on [GPT3 Blog](https://rithik-tiwari.github.io/gpt3__blog)
@@ -36,6 +34,8 @@
 - 📫 How to reach me [CodeGYAN@Mail.box](mailto:gyantiwari10101@gmail.com)
 
 - 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1UoqvQbpUkUMX8vv6oK_hxwy0EeGT-NYI/view)
+
+- - 🌱 I’m currently learning **App development**
 
 - ⚡ Fun fact **I think I am ZEUS (A GREEK GOD)**
 
