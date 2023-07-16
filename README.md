@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Gyanendar Tiwari</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer | Web Designer from Chennai, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="rithik-tiwari" /> </p>
 
@@ -33,8 +33,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithik-tiwari" alt="rithik-tiwari" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithik-tiwari&show_icons=true&locale=en&layout=compact" alt="rithik-tiwari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithik-tiwari&show_icons=true&locale=en&layout=compact&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="rithik-tiwari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik-tiwari&show_icons=true&locale=en&title_color=e5c710&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,2d5f40" alt="rithik-tiwari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik-tiwari&show_icons=true&locale=en&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="rithik-tiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithik-tiwari&" alt="rithik-tiwari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithik-tiwari&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="rithik-tiwari" /></p>
