@@ -1,6 +1,10 @@
-<img width="1039" height="500" alt="codeGYan_Banner" src="https://github.com/rithik-tiwari/rithik-tiwari/assets/93036942/f31b91b1-e073-4819-aa8f-b75ac9979e70">
+<div align="center">
+  <img width="1019" alt="gyanbanner_img" src="https://github.com/rithik-tiwari/rithik-tiwari/assets/93036942/a8db12b5-3adb-4715-a20c-aa1d04600424">
+</div>
 
-<h1 align="center">Hello World 🌎, I'm Gyanendar Tiwari</h1>
+<hr/>
+
+<h1 align="center">Hello World 🌎, I'm <a href="https://rithik-tiwari.github.io/dev_portfolio">Gyanendar Tiwari</a></h1>
 <h3 align="center">A passionate Web Developer | Web Designer from Chennai, India.</h3>
 
 
@@ -104,5 +108,7 @@
   <a href="https://www.linkedin.com/in/gyanendra-tiwari-b65079252/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_rithik_tiwari_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
+
+[PORTFOLIO]: https://rithik-tiwari.github.io/dev_portfolio
 
 
