@@ -1,7 +1,8 @@
-<img src="codeGYan_Banner.png" alt="Banner_img" />
+<img width="1039" height="500" alt="codeGYan_Banner" src="https://github.com/rithik-tiwari/rithik-tiwari/assets/93036942/f31b91b1-e073-4819-aa8f-b75ac9979e70">
 
 <h1 align="center">Hello World 🌎, I'm Gyanendar Tiwari</h1>
 <h3 align="center">A passionate Web Developer | Web Designer from Chennai, India.</h3>
+
 
 <div>
   <p align="center">
