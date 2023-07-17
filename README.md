@@ -35,7 +35,7 @@
 
 - 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1UoqvQbpUkUMX8vv6oK_hxwy0EeGT-NYI/view)
 
-- - 🌱 I’m currently learning **App development**
+-  🌱 I’m currently learning **App development**
 
 - ⚡ Fun fact **I think I am ZEUS (A GREEK GOD)**
 
