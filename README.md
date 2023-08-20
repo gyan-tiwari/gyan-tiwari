@@ -1,8 +1,9 @@
 <div align="center">
-  <img width="1019" alt="gyanbanner_img" src="https://github.com/rithik-tiwari/rithik-tiwari/assets/93036942/a8db12b5-3adb-4715-a20c-aa1d04600424">
+  <img width="1030" alt="gyanbanner_updated" src="https://github.com/rithik-tiwari/rithik-tiwari/assets/93036942/8b3ca173-e173-4f7d-aa5c-cd9932909c2b">
 </div>
 
 <hr/>
+
 
 <h1 align="center">Hello World 🌎, I'm <a href="https://rithik-tiwari.github.io/dev_portfolio">Gyanendar Tiwari</a> &nbsp; <img alt="emoji" width="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjByMXhnYnR2eTN1NTQzdW9tNHk3ZXk3cDllaHM2eDA4M296bXprZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtOkaikiwaR87ZvAFH/giphy.gif" /></h1>
 
