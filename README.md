@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="1030" alt="gyanbanner_updated" src="![image](https://github.com/rithik-tiwari/rithik-tiwari/assets/93036942/a5522465-9962-4522-81f8-d4dea0fbf370)
-"> 
+  <img width="1030" alt="gyanbanner_updated" src="https://github.com/rithik-tiwari/rithik-tiwari/assets/93036942/a5522465-9962-4522-81f8-d4dea0fbf370"> 
 </div>
 
 <hr/>
