@@ -86,14 +86,14 @@
 
 <hr/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan-tiwari&theme=dark" alt="rithik-tiwari" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan-tiwari&theme=dark" alt="gyan-tiwari" /></p>
 
 <hr/>
 
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyan-tiwari&show_icons=true&locale=en&layout=compact&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="rithik-tiwari" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyan-tiwari&show_icons=true&locale=en&layout=compact&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="gyan-tiwari" />
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyan-tiwari&show_icons=true&locale=en&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="gyan-tiwari" />
