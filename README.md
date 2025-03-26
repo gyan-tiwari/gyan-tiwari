@@ -86,7 +86,7 @@
 
 <hr/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan-tiwari&theme=dark" alt="gyan-tiwari" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=gyan-tiwari&theme=dark" alt="gyan-tiwari" /></p>
 
 <hr/>
 
