@@ -81,22 +81,22 @@
 <div />
 <hr/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithik-tiwari&theme=onedark" alt="rithik-tiwari" /></a> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyan-tiwari&theme=onedark" alt="rithik-tiwari" /></a> 
 </p>
 
 <hr/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithik-tiwari&theme=dark" alt="rithik-tiwari" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan-tiwari&theme=dark" alt="rithik-tiwari" /></p>
 
 <hr/>
 
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithik-tiwari&show_icons=true&locale=en&layout=compact&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="rithik-tiwari" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyan-tiwari&show_icons=true&locale=en&layout=compact&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="rithik-tiwari" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithik-tiwari&show_icons=true&locale=en&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="rithik-tiwari" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyan-tiwari&show_icons=true&locale=en&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="gyan-tiwari" />
     </td>
   </tr>
 </table>
