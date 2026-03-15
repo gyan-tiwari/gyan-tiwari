@@ -12,7 +12,7 @@
 
 <div>
   <p align="center">
-  Hey there, I'm Gyanendar, I'm a student at SRMIST pursuing Computer Science & Engineering. I am a Passionate Web developer and Web Designer. While I am still early in my professional journey, I am dedicated to continuously learning and keeping up with the latest trends and technologies in web development.
+  Hi, I'm Gyanendar, a Full-Stack Software Developer with 1+ year of experience and a Computer Science graduate from SRMIST. I build scalable web applications and have a strong interest in AI, machine learning, and data-driven systems, with an IEEE-published research paper on clustering algorithms.
   </p>
 </div>
 
