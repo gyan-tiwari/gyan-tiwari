@@ -34,7 +34,7 @@
 
 - 📫 How to reach me [CodeGYAN@Mail.box](mailto:gyantiwari10101@gmail.com)
 
-- 📄 Know about my experiences [My-Resume]([https://drive.google.com/file/d/1UoqvQbpUkUMX8vv6oK_hxwy0EeGT-NYI/view](https://drive.google.com/file/d/1Mgoq8GobmpOHVzw3mkRxUf0MWLX3QCWf/view?usp=sharing))
+- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1Mgoq8GobmpOHVzw3mkRxUf0MWLX3QCWf/view?usp=sharing)
 
 -  🌱 I’m currently learning **GEN AI**
 
