@@ -26,17 +26,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRpN3pzMWZ6YXhnbm0xN212bGUzc2IwenI2MDEybXk1b2x4Yzh6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👨‍💻 All of my projects are available at [My-Portfolio](https://rithik-tiwari.github.io/dev_portfolio)
+- 👨‍💻 All of my projects are available at [My-Portfolio](https://gyan-tiwari.github.io/dev_portfolio)
 
-- 📝 I regularly write articles on [GPT3 Blog](https://rithik-tiwari.github.io/gpt3__blog)
+- 📝 I regularly write articles on [GPT3 Blog](https://gyan-tiwari.github.io/gpt3__blog)
 
-- 💬 Ask me about **React, Next.js, MERN, Android Devlopment**
+- 💬 Ask me about **Full-Stack Development,System Design and Backend Architecture**
 
 - 📫 How to reach me [CodeGYAN@Mail.box](mailto:gyantiwari10101@gmail.com)
 
-- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1UoqvQbpUkUMX8vv6oK_hxwy0EeGT-NYI/view)
+- 📄 Know about my experiences [My-Resume]([https://drive.google.com/file/d/1UoqvQbpUkUMX8vv6oK_hxwy0EeGT-NYI/view](https://drive.google.com/file/d/1Mgoq8GobmpOHVzw3mkRxUf0MWLX3QCWf/view?usp=sharing))
 
--  🌱 I’m currently learning **Data Analytics**
+-  🌱 I’m currently learning **GEN AI**
 
 - ⚡ Fun fact **I think I am ZEUS (A GREEK GOD)**
 
